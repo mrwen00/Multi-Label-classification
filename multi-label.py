@@ -1,3 +1,6 @@
+# Trieu Trang Vinh - 14521097
+# Multi label classification
+
 from sklearn.datasets import make_multilabel_classification
 from sklearn.multioutput import MultiOutputClassifier
 from sklearn.ensemble import RandomForestClassifier
